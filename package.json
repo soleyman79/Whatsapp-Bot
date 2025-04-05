@@ -1,8 +1,7 @@
 {
   "name": "messagingBot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
@@ -18,5 +17,14 @@
   },
   "devDependencies": {
     "prettier": "^3.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soleyman79/Whatsapp-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soleyman79/Whatsapp-Bot/issues"
+  },
+  "homepage": "https://github.com/soleyman79/Whatsapp-Bot#readme",
+  "description": ""
 }
